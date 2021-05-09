@@ -33,7 +33,7 @@ The result of the visualization above shows that female and male riders take the
 <img width="1008" alt="Screen Shot 2021-05-08 at 4 35 49 PM" src="https://user-images.githubusercontent.com/77817870/117556227-7b0d3200-b01b-11eb-926b-3c8362ce75dd.png">
 The result of the visualization above shows that the most rides are taken by male and female subscribers on Thurday. The most rides for unknown customers are taken on Saturday.  
 
-## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
-We found that most rides are taken by male and female subscribers with the length of most trips ranging between 5 and 6 minutes. The most popular day for male and female subscribers is Thursday between 5pm and 7pm. Most rides take by unknown customers were on Saturday at noon, which is likely caused by tourism. 
+## Summary:
+We found that most rides are taken by male and female subscribers with the length of most trips ranging between 5 and 6 minutes. The most popular day and time for male and female subscribers is Thursday between 5pm and 7pm. Most rides taken by unknown customers were on Saturday at noon, which is likely caused by tourism. 
 
 An additional visualization to create would show how many miles were traveled during a trip to help understand where to place bike stations. Also, I would create a map to show the most popular bike stations for male and female subscribers on Thursday between 5pm and 7pm. 
