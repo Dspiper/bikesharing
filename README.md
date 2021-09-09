@@ -19,11 +19,11 @@ The result of the visualization above shows that 5 minutes is the most common le
 
 ### Checkout Times by Gender
 <img width="962" alt="Screen Shot 2021-05-08 at 4 32 44 PM" src="https://user-images.githubusercontent.com/77817870/117556199-1c47b880-b01b-11eb-9f29-e5e712938f48.png">
-The result of the visualization above shows that 5 minutes is the most common length of time bikes are checked out for male riders while 6 minutes is the most common length of time bikes are checked out for female riders. Unkown riders acount for the smallest portion of bikes checked out, but their trip durations are longer then both male and female riders at 11 minutes. 
+The result of the visualization above shows that 5 minutes is the most common length of time bikes are checked out for male riders while 6 minutes is the most common length of time bikes are checked out for female riders. Unknown riders account for the smallest portion of bikes checked out, but their trip durations are longer than both male and female riders at 11 minutes. 
 
 ### Trips by Weekday per Hour 
 <img width="543" alt="Screen Shot 2021-05-08 at 4 34 07 PM" src="https://user-images.githubusercontent.com/77817870/117556207-3bdee100-b01b-11eb-9f9b-bc51d7a1d801.png">
-The result of the visualization above shows that highest number of bike trips are taken on Thursday between 5pm and 7pm. 
+The result of the visualization above shows that the highest number of bike trips are taken on Thursday between 5pm and 7pm. 
 
 ### Trips by Gender by Weekday per Hour
 <img width="999" alt="Screen Shot 2021-05-08 at 4 38 58 PM" src="https://user-images.githubusercontent.com/77817870/117556275-eb1bb800-b01b-11eb-996f-c2374bb3757d.png">
@@ -31,7 +31,7 @@ The result of the visualization above shows that female and male riders take the
 
 ### User Trips by Gender by Weekday 
 <img width="1008" alt="Screen Shot 2021-05-08 at 4 35 49 PM" src="https://user-images.githubusercontent.com/77817870/117556227-7b0d3200-b01b-11eb-926b-3c8362ce75dd.png">
-The result of the visualization above shows that the most rides are taken by male and female subscribers on Thurday. The most rides for unknown customers are taken on Saturday.  
+The result of the visualization above shows that the most rides are taken by male and female subscribers on Thursday. The most rides for unknown customers are taken on Saturday.  
 
 ## Summary:
 We found that most rides are taken by male and female subscribers with the length of most trips ranging between 5 and 6 minutes. The most popular day and time for male and female subscribers is Thursday between 5pm and 7pm. Most rides taken by unknown customers were on Saturday at noon, which is likely caused by tourism. 
